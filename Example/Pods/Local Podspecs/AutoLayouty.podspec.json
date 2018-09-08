@@ -1,0 +1,22 @@
+{
+  "name": "AutoLayouty",
+  "version": "0.1.0",
+  "summary": "A short description of AutoLayouty.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gabrielsscavalcante/AutoLayouty",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gabrielsscavalcante": "gabrielsoucavalcante@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/gabrielsscavalcante/AutoLayouty.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AutoLayouty/Classes/**/*"
+}

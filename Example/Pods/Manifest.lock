@@ -1,0 +1,16 @@
+PODS:
+  - AutoLayouty (0.1.0)
+
+DEPENDENCIES:
+  - AutoLayouty (from `../`)
+
+EXTERNAL SOURCES:
+  AutoLayouty:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AutoLayouty: 836e871ac22ca41f3c97c379bcbafea6ecd27e1a
+
+PODFILE CHECKSUM: 8300750f8acf492471b8ca73a5da28a7ef9aefa1
+
+COCOAPODS: 1.5.2
